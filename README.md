@@ -18,3 +18,10 @@
   - ハイライトマーカなど   
 - 連携  
   - [arXivTimes](https://github.com/arXivTimes/arXivTimes)と連携できれば最高。  
+
+# 参考サイト
+
+- NURTURE AI
+ - https://nurture.ai/p/27ce2f38-6b85-47af-bb9d-8979e3d5a6e4
+ - AI論文を読む用の海外サイト。アノテーションなどができるようになっており、おそらく共有もできる。
+ - PDFの出力や、いじれる感じは理想に近い。
